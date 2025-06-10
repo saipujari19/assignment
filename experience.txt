@@ -2,7 +2,7 @@ Manager(SOME EXPERIENCE) - Data Analysis - AWS Cloud platform. Analyzing and int
 AWS Redshift, Dynamo DB, Managed Airflow, Reporting, build BI Dashboards, Time series forecasting, Financial data, Customer Data Analysis, Statistics, Infogix Audit Control, Power BI.
 
 Technical Skills:
-Big Data, Hadoop, Reporting, Tableau, Power BI, DAX coding, ETL, PMO, Zena, Spark, Infogix, Data3sixty, Hive, GitHub, TeraData, SQL, Jenkins, AWS Amazon Web Services.
+
 
 
 
